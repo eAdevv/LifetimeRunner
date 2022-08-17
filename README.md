@@ -1,5 +1,5 @@
 # LifetimeRunner
-Hyper-casual runner game.
+Hyper-casual runner game made for Udo Games.
 
 This game made by Emin Arslan and Eda Demirpolat for Udo Game Next Gens Devs 2022 internship program.
 
