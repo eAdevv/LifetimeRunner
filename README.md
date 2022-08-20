@@ -5,6 +5,7 @@ This game made by Emin Arslan and Eda Demirpolat for Udo Game Next Gens Devs 202
 
 
 Gameplay : youtube.com/watch?v=0sGq-ehZ3cE
+Demo : eadev.itch.io/lifetime-runner
 
 Emin Arslan - Developer
 
